@@ -1,4 +1,4 @@
-# -*- coding:utf-8 -*-
+# -*- coding: utf-8 -*-
 
 import csv
 from ruamel.yaml import YAML, add_constructor, resolver
