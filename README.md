@@ -1,5 +1,6 @@
-This software is released under the MIT License, see LICENSE.txt
+# Library
 
-# lib
+## Outline
 
-汎用的なスクリプトです。
+- These scripts are common.
+- They are released under the MIT License, see LICENSE.txt
