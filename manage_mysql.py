@@ -6,10 +6,10 @@ import pymysql.cursors
 def _connect():
 
     con = pymysql.connect(
-        host='localhost',
-        db='keiba',
-        user='root',
-        password=''
+        host='xxx',
+        db='xxx',
+        user='xxx',
+        password='xxx'
         )
     cur = con.cursor()
 
